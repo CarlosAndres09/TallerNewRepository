@@ -1,5 +1,5 @@
 git clone <repo url>
 
-git git add .
+git add .
 
 git commit -m 'primer commit'
